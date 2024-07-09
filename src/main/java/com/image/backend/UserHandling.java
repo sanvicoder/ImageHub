@@ -1,7 +1,7 @@
-package com.nagarro.image.backend;
+package com.image.backend;
 
-import com.nagarro.image.models.User;
-import com.nagarro.image.session.HibernateSession;
+import com.image.session.HibernateSession;
+import com.image.models.User;
 import org.hibernate.Session;
 
 

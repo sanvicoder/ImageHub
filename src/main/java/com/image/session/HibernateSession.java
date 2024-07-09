@@ -1,4 +1,4 @@
-package com.nagarro.image.session;
+package com.image.session;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;

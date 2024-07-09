@@ -10,43 +10,43 @@
     <servlet-name>Login</servlet-name>
     <display-name>Login</display-name>
     <description></description>
-    <servlet-class>com.nagarro.image.frontend.Login</servlet-class>
+    <servlet-class>com.image.frontend.Login</servlet-class>
   </servlet>
   <servlet>
     <servlet-name>Logout</servlet-name>
     <display-name>Logout</display-name>
     <description></description>
-    <servlet-class>com.nagarro.image.frontend.Logout</servlet-class>
+    <servlet-class>com.image.frontend.Logout</servlet-class>
   </servlet>
   <servlet>
     <servlet-name>ImageUpload</servlet-name>
     <display-name>ImageUpload</display-name>
     <description></description>
-    <servlet-class>com.nagarro.image.frontend.ImageUpload</servlet-class>
+    <servlet-class>com.image.frontend.ImageUpload</servlet-class>
   </servlet>
   <servlet>
     <servlet-name>ImageDelete</servlet-name>
     <display-name>ImageDelete</display-name>
     <description></description>
-    <servlet-class>com.nagarro.image.frontend.ImageDelete</servlet-class>
+    <servlet-class>com.image.frontend.ImageDelete</servlet-class>
   </servlet>
   <servlet>
     <servlet-name>ImageEdit</servlet-name>
     <display-name>ImageEdit</display-name>
     <description></description>
-    <servlet-class>com.nagarro.image.frontend.EditImage</servlet-class>
+    <servlet-class>com.image.frontend.EditImage</servlet-class>
   </servlet>
   <servlet>
     <servlet-name>ImageRetriever</servlet-name>
     <display-name>ImageRetriever</display-name>
     <description></description>
-    <servlet-class>com.nagarro.image.frontend.GetImage</servlet-class>
+    <servlet-class>com.image.frontend.GetImage</servlet-class>
   </servlet>
   <servlet>
     <servlet-name>ResetPassword</servlet-name>
     <display-name>ResetPassword</display-name>
     <description></description>
-    <servlet-class>com.nagarro.image.frontend.ResetPassword</servlet-class>
+    <servlet-class>com.image.frontend.ResetPassword</servlet-class>
   </servlet>
   <servlet-mapping>
     <servlet-name>Login</servlet-name>

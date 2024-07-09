@@ -1,4 +1,4 @@
-package com.nagarro.image.frontend;
+package com.image.frontend;
 
 import java.io.IOException;
 
@@ -7,8 +7,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.nagarro.image.backend.UserHandling;
-import com.nagarro.image.models.User;
+import com.image.backend.UserHandling;
+import com.image.models.User;
 
 
 public class ResetPassword extends HttpServlet {

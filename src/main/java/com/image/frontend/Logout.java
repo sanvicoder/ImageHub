@@ -1,4 +1,4 @@
-package com.nagarro.image.frontend;
+package com.image.frontend;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

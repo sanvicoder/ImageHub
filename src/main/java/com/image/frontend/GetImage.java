@@ -1,7 +1,7 @@
-package com.nagarro.image.frontend;
+package com.image.frontend;
 
-import com.nagarro.image.models.Image;
-import com.nagarro.image.backend.ImageHandling;
+import com.image.models.Image;
+import com.image.backend.ImageHandling;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

@@ -10,8 +10,8 @@
         <property name="hibernate.connection.username">root</property>
         <property name="hibernate.connection.password">root</property>
         <property name="hibernate.hbm2ddl.auto">update</property>
-        <mapping class="com.nagarro.image.models.User"/>
-        <mapping class="com.nagarro.image.models.Image"/>
+        <mapping class="com.image.models.User"/>
+        <mapping class="com.image.models.Image"/>
 
     </session-factory>
 </hibernate-configuration>

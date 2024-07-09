@@ -1,4 +1,4 @@
-package com.nagarro.image.models;
+package com.image.models;
 
 import javax.persistence.*;
 import java.util.HashSet;

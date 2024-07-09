@@ -1,6 +1,7 @@
-package com.nagarro.image.frontend;
+package com.image.frontend;
 
-import com.nagarro.image.models.User;
+import com.image.backend.UserHandling;
+import com.image.models.User;
 import com.nagarro.image.backend.*;
 
 import javax.servlet.ServletException;

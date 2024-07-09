@@ -1,10 +1,10 @@
-package com.nagarro.image.frontend;
+package com.image.frontend;
 
 import java.util.Collection;
 
-import com.nagarro.image.backend.UserHandling;
-import com.nagarro.image.models.Image;
-import com.nagarro.image.models.User;
+import com.image.backend.UserHandling;
+import com.image.models.Image;
+import com.image.models.User;
 
 public class ImageSize {
 

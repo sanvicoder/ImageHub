@@ -1,9 +1,9 @@
-package com.nagarro.image.frontend;
+package com.image.frontend;
 
-import com.nagarro.image.models.Image;
-import com.nagarro.image.models.User;
-import com.nagarro.image.backend.ImageHandling;
-import com.nagarro.image.backend.UserHandling;
+import com.image.models.Image;
+import com.image.models.User;
+import com.image.backend.ImageHandling;
+import com.image.backend.UserHandling;
 import org.apache.commons.fileupload.FileItem;
 import org.apache.commons.fileupload.disk.DiskFileItemFactory;
 import org.apache.commons.fileupload.servlet.ServletFileUpload;
